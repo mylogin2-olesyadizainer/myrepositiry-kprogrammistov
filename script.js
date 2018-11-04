@@ -6,4 +6,4 @@ function sayBye() {
 	alert('Goodbye from Git!');
 }
 
-// Changed in feature (js - 1)
+// Changed in feature (js - 2)
