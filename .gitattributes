@@ -1,0 +1,6 @@
+*.html diff=html
+*.css diff=css
+*.md diff=markdown
+*.png diff=image
+*.svg diff=image
+*.exe binary
