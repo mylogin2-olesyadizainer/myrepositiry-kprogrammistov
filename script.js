@@ -5,3 +5,7 @@ function sayHi() {
 function sayBye() {
 	alert('Goodbye from Git!');
 }
+
+fucntion work() {
+	alert('Work! Git!');
+}
