@@ -3,7 +3,7 @@ function sayHi() {
 }
 
 function sayBye() {
-	alert('Goodbye from Git!');
+	alert('Goodbye from Git harder!');
 }
 
 fucntion work() {
