@@ -7,5 +7,5 @@ function sayBye() {
 }
 
 fucntion work() {
-	alert('Work! Git!');
+	alert('Work ${t} times! Git!');
 }
