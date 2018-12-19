@@ -1,4 +1,4 @@
-function sayHi() {
+function sayHello() {
 	alert('Hello from Git!');
 }
 
